@@ -1,0 +1,14 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "main": "Word_counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
